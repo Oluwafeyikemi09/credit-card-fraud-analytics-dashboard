@@ -196,10 +196,10 @@ Summarizes the major findings, business insights, and recommendations from the a
 
 # 💡 Business Recommendations
 
-- Increase fraud monitoring during the **10 PM – 3 AM** high-risk period.
+- Increase fraud monitoring during the **10 PM – 3 AM** high risk period.
 - Apply enhanced fraud controls to shopping-related merchant categories.
 - Monitor merchants with elevated fraud rates and losses.
-- Develop targeted customer engagement strategies for customers aged **35–44**.
+- Develop targeted customer engagement strategies for customers aged **35 - 44**.
 - Continue monitoring high-volume states to strengthen fraud prevention efforts.
 
 ---
