@@ -187,7 +187,7 @@ Summarizes the major findings, business insights, and recommendations from the a
 
 - Grocery POS generated the highest transaction value, contributing approximately **16%** of total transaction value.
 - Fraud activity was concentrated between **10:00 PM and 3:00 AM**, accounting for over **84%** of fraud cases.
-- Customers aged **35–44** generated the highest transaction value.
+- Customers aged **35 - 44** generated the highest transaction value.
 - Female customers contributed approximately **55%** of total transaction value.
 - Merchant revenue is highly diversified, with the **Top 10 merchants contributing only about 3–4%** of total transaction value.
 - Shopping-related merchant categories consistently recorded the highest fraud rates.
