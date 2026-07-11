@@ -139,9 +139,10 @@ Provides a high-level summary of business performance through KPIs, monthly tren
 
 ---
 
-## 🛡️ Page 2 — Fraud & Risk Analysis
+## 🛡️ Page 2 - Fraud & Risk Analysis
 
-![Fraud & Risk Analysis](Dashboard%20Screenshots/02%20Fraud%20Risk%20Analysis.png)
+<img width="1060" height="488" alt="Fraud Risk Analysis" src="https://github.com/user-attachments/assets/5650507a-e1e7-49de-bbd2-bfdd8ccc5671" />
+
 
 **Purpose**
 
@@ -149,9 +150,10 @@ Analyzes fraud patterns by identifying high-risk categories, fraud hotspots, fra
 
 ---
 
-## 👥 Page 3 — Customer Behavior Analytics
+## 👥 Page 3 - Customer Behavior Analytics
 
-![Customer Behavior Analytics](Dashboard%20Screenshots/03%20Customer%20Behavior%20Analytics.png)
+<img width="1057" height="493" alt="Customer Analytics" src="https://github.com/user-attachments/assets/6fb2a87e-d228-4be1-be87-c5045ebae2ce" />
+
 
 **Purpose**
 
@@ -159,9 +161,10 @@ Explores customer demographics and spending behavior by analyzing age groups, ge
 
 ---
 
-## 🏪 Page 4 — Merchant & Business Insights
+## 🏪 Page 4 - Merchant & Business Insights
 
-![Merchant & Business Insights](Dashboard%20Screenshots/04%20Merchant%20Business%20Insights.png)
+<img width="1058" height="497" alt="Merchants Insights" src="https://github.com/user-attachments/assets/e2b5e941-5fad-4cc1-8478-2e8ab58ed813" />
+
 
 **Purpose**
 
@@ -169,9 +172,10 @@ Evaluates merchant performance through revenue analysis, fraud exposure, merchan
 
 ---
 
-## 📄 Page 5 — Executive Summary
+## 📄 Page 5 - Executive Summary
 
-![Executive Summary](Dashboard%20Screenshots/05%20Executive%20Summary.png)
+<img width="1040" height="486" alt="Executive Summary" src="https://github.com/user-attachments/assets/b7d1893b-6a19-43ee-81e3-551e52016ec3" />
+
 
 **Purpose**
 
