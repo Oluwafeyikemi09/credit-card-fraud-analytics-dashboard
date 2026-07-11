@@ -1,146 +1,206 @@
-Credit Card Fraud & Customer Analytics Dashboard
-Project Overview
+# 💳 Credit Card Fraud & Customer Analytics Dashboard
 
-Credit card fraud remains one of the biggest challenges facing financial institutions, resulting in significant financial losses and operational risks. Beyond fraud prevention, organizations also need to understand customer spending behavior, merchant performance, and transaction trends to make informed business decisions.
+An interactive **Power BI dashboard** analyzing **925K+ credit card transactions** to uncover fraud patterns, customer spending behavior, and merchant performance using **SQL, DAX, Power Query, and Power BI**.
 
-This project presents an end-to-end Business Intelligence solution built with Power BI, SQL Server, Power Query, and DAX. The dashboard analyzes 925,000+ credit card transactions spanning January 2019 to June 2020, transforming raw transactional data into actionable insights that support fraud detection, customer segmentation, and business performance monitoring.
+---
 
-The report features interactive navigation, dynamic KPIs, drill-down analysis, and business storytelling to help stakeholders quickly identify trends and make data-driven decisions.
+# 📌 Project Overview
 
-⭐ Project Highlights
-📊 Analyzed 925K+ credit card transactions.
-📈 Designed a 5-page interactive Power BI dashboard.
-🛠 Wrote SQL queries to answer key business questions.
-📉 Built dynamic KPIs and insights using DAX.
-🔄 Performed data cleaning and transformation with Power Query.
-📖 Applied business storytelling to communicate actionable insights.
-🎯 Delivered recommendations to improve fraud detection and business performance.
-📸 Dashboard Preview
+Credit card fraud remains one of the biggest challenges facing financial institutions, resulting in financial losses and operational risks. Beyond fraud prevention, businesses also need to understand customer spending behavior, merchant performance, and transaction trends to make informed decisions.
 
-Executive Overview
+This end-to-end Business Intelligence project transforms over **925,000 credit card transactions (January 2019 – June 2020)** into actionable insights using **SQL Server, Power Query, DAX, and Power BI**.
 
-(Insert your Page 1 screenshot here.)
+The dashboard provides an interactive experience that enables stakeholders to monitor business performance, detect fraud trends, understand customer behavior, and evaluate merchant performance through intuitive visualizations and dynamic insights.
 
-This page provides an executive summary of business performance through key KPIs, revenue trends, fraud metrics, and geographic analysis.
+---
 
-🎯 Business Problem
+# ⭐ Project Highlights
 
-Financial institutions process thousands of transactions every day. Detecting fraudulent activities while understanding customer and merchant behavior is essential for minimizing financial losses and improving business performance.
+- 📊 Analyzed **925K+ credit card transactions**
+- 📈 Built a **5-page interactive Power BI dashboard**
+- 🛠 Answered business questions using **SQL**
+- 📉 Created dynamic KPIs and insight cards with **DAX**
+- 🔄 Cleaned and transformed data using **Power Query**
+- 📖 Applied business storytelling to support decision-making
+- 🎯 Developed actionable recommendations for fraud prevention and business performance
 
-This dashboard was developed to help answer critical business questions relating to:
+---
 
-Financial performance
-Fraud detection
-Customer behavior
-Merchant performance
-Revenue distribution
-Business decision-making
-Business Questions Answered
-Executive Overview
-What is the total transaction value?
-How many transactions were processed?
-What is the fraud rate?
-Which merchant categories generate the highest revenue?
-Which states contribute the highest transaction value?
-How much revenue is lost to fraud?
-Fraud & Risk Analysis
-Which merchant categories have the highest fraud rate?
-Which merchants experience the highest fraud losses?
-Which states record the highest fraud activity?
-At what time of day does fraud occur most frequently?
-Which categories present the highest fraud risk?
-Customer Behavior Analytics
-Which customer age group contributes the highest revenue?
-Which gender spends the most?
-Who are the highest-value customers?
-Which occupations generate the most revenue?
-How does spending vary across age groups?
-Merchant & Business Insights
-Which merchants generate the highest revenue?
-Which merchants have the highest fraud rate?
-Which merchants incur the greatest fraud losses?
-Is merchant revenue diversified?
-How has merchant revenue changed over time?
-📂 Dataset Information
-Attribute	Details
-Dataset	Credit Card Transactions
-Records	925,000+
-Time Period	January 2019 – June 2020
-Dashboard Pages	5
-Data Source	Public Credit Card Transaction Dataset
-🛠 Tools & Technologies
-Power BI Desktop
-SQL Server
-DAX
-Power Query
-Microsoft Excel
-🧹 Data Preparation & Transformation
+# 📸 Dashboard Preview
 
-Before building the dashboard, the following steps were completed:
+## Executive Overview
 
-Cleaned and validated transaction records.
-Corrected data types.
-Created a Date table for time-based analysis.
-Built relationships between tables.
-Created Age Groups from customers' dates of birth.
-Extracted transaction hour for fraud analysis.
-Developed calculated columns and DAX measures.
-Built dynamic slicers and page navigation using bookmarks.
-📊 Dashboard Overview
-📄 Page 1 — Executive Overview
+> **Replace the image below with your Executive Overview screenshot**
 
-(Insert Page 1 Screenshot)
+![Executive Overview](Dashboard%20Screenshots/01%20Executive%20Overview.png)
 
-Purpose
+---
 
-Provides a high-level summary of transaction performance, including KPIs, monthly trends, category performance, fraud distribution, geographic analysis, and executive insights.
+# 🎯 Business Problem
 
-🛡️ Page 2 — Fraud & Risk Analysis
+Financial institutions process thousands of transactions daily, making it difficult to detect fraudulent activities while understanding customer spending behavior and merchant performance.
 
-(Insert Page 2 Screenshot)
+This dashboard helps answer critical business questions relating to:
 
-Purpose
+- Financial Performance
+- Fraud Detection
+- Customer Behavior
+- Merchant Performance
+- Geographic Analysis
+- Business Decision-Making
 
-Identifies fraud trends, high-risk merchant categories, fraud hotspots, fraud activity by hour, and areas requiring enhanced fraud monitoring.
+---
 
-👥 Page 3 — Customer Behavior Analytics
+# ❓ Business Questions Answered
 
-(Insert Page 3 Screenshot)
+## Executive Overview
 
-Purpose
+- What is the total transaction value?
+- How many transactions were processed?
+- What is the fraud rate?
+- Which merchant categories generate the highest revenue?
+- Which states contribute the highest transaction value?
+- How much revenue is lost to fraud?
 
-Explores customer demographics and spending behavior by analyzing age groups, gender, occupation, top customers, and average spending patterns.
+## Fraud & Risk Analysis
 
-🏪 Page 4 — Merchant & Business Insights
+- Which merchant categories have the highest fraud rate?
+- Which merchants experience the highest fraud losses?
+- Which states record the highest fraud activity?
+- At what time of day does fraud occur most frequently?
+- Which categories present the highest fraud risk?
 
-(Insert Page 4 Screenshot)
+## Customer Behavior Analytics
 
-Purpose
+- Which customer age group contributes the highest revenue?
+- Which gender contributes the highest spending?
+- Who are the highest-value customers?
+- Which occupations generate the most revenue?
+- How does spending vary across age groups?
 
-Evaluates merchant performance through revenue analysis, fraud exposure, revenue trends, merchant rankings, and revenue concentration.
+## Merchant & Business Insights
 
-📄 Page 5 — Executive Summary
+- Which merchants generate the highest revenue?
+- Which merchants have the highest fraud rate?
+- Which merchants incur the greatest fraud losses?
+- Is merchant revenue concentrated or diversified?
+- How has merchant revenue changed over time?
 
-(Insert Page 5 Screenshot)
+---
 
-Purpose
+# 📂 Dataset Information
 
-Summarizes the key findings, business insights, and strategic recommendations derived from the analysis.
+| Attribute | Details |
+|-----------|---------|
+| **Dataset** | Credit Card Transactions |
+| **Records** | 925,000+ |
+| **Time Period** | January 2019 – June 2020 |
+| **Dashboard Pages** | 5 |
+| **Tools** | SQL Server, Power BI, DAX, Power Query |
 
-📈 Key Insights
-Grocery POS generated the highest transaction value, contributing approximately 16% of total transaction value.
-Fraud activity was heavily concentrated between 10:00 PM and 3:00 AM, accounting for over 84% of fraud cases.
-Customers aged 35–44 contributed the highest transaction value.
-Female customers generated approximately 55% of total spending.
-Merchant revenue is highly diversified, with the Top 10 merchants contributing only 3–4% of total transaction value.
-Shopping-related merchant categories consistently exhibited the highest fraud rates.
-💡 Business Recommendations
-Increase fraud monitoring between 10 PM and 3 AM.
-Strengthen fraud controls for high-risk shopping-related merchant categories.
-Monitor merchants with elevated fraud rates and fraud losses.
-Develop customer retention strategies for the 35–44 age segment.
-Continue monitoring high-volume states to strengthen fraud prevention.
-📁 Repository Structure
+---
+
+# 🛠 Tools & Technologies
+
+- Power BI Desktop
+- SQL Server
+- DAX
+- Power Query
+- Microsoft Excel
+
+---
+
+# 🧹 Data Preparation & Transformation
+
+The following preprocessing steps were completed before building the dashboard:
+
+- Cleaned and validated transaction records.
+- Corrected data types.
+- Created a Date table for time-based analysis.
+- Created Age Groups from customers' dates of birth.
+- Extracted transaction hour for fraud analysis.
+- Built relationships between tables.
+- Developed calculated columns and DAX measures.
+- Designed interactive slicers and page navigation using bookmarks.
+
+---
+
+# 📊 Dashboard Overview
+
+## 📄 Page 1 — Executive Overview
+
+![Executive Overview](Dashboard%20Screenshots/01%20Executive%20Overview.png)
+
+**Purpose**
+
+Provides a high-level summary of business performance through KPIs, monthly trends, revenue by category, state analysis, fraud distribution, and executive insights.
+
+---
+
+## 🛡️ Page 2 — Fraud & Risk Analysis
+
+![Fraud & Risk Analysis](Dashboard%20Screenshots/02%20Fraud%20Risk%20Analysis.png)
+
+**Purpose**
+
+Analyzes fraud patterns by identifying high-risk categories, fraud hotspots, fraud activity by hour, fraud trends, and fraud exposure.
+
+---
+
+## 👥 Page 3 — Customer Behavior Analytics
+
+![Customer Behavior Analytics](Dashboard%20Screenshots/03%20Customer%20Behavior%20Analytics.png)
+
+**Purpose**
+
+Explores customer demographics and spending behavior by analyzing age groups, gender, occupations, top customers, and spending patterns.
+
+---
+
+## 🏪 Page 4 — Merchant & Business Insights
+
+![Merchant & Business Insights](Dashboard%20Screenshots/04%20Merchant%20Business%20Insights.png)
+
+**Purpose**
+
+Evaluates merchant performance through revenue analysis, fraud exposure, merchant rankings, revenue trends, and business insights.
+
+---
+
+## 📄 Page 5 — Executive Summary
+
+![Executive Summary](Dashboard%20Screenshots/05%20Executive%20Summary.png)
+
+**Purpose**
+
+Summarizes the major findings, business insights, and recommendations from the analysis.
+
+---
+
+# 📈 Key Insights
+
+- Grocery POS generated the highest transaction value, contributing approximately **16%** of total transaction value.
+- Fraud activity was concentrated between **10:00 PM and 3:00 AM**, accounting for over **84%** of fraud cases.
+- Customers aged **35–44** generated the highest transaction value.
+- Female customers contributed approximately **55%** of total transaction value.
+- Merchant revenue is highly diversified, with the **Top 10 merchants contributing only about 3–4%** of total transaction value.
+- Shopping-related merchant categories consistently recorded the highest fraud rates.
+
+---
+
+# 💡 Business Recommendations
+
+- Increase fraud monitoring during the **10 PM – 3 AM** high-risk period.
+- Apply enhanced fraud controls to shopping-related merchant categories.
+- Monitor merchants with elevated fraud rates and losses.
+- Develop targeted customer engagement strategies for customers aged **35–44**.
+- Continue monitoring high-volume states to strengthen fraud prevention efforts.
+
+---
+
+# 📁 Repository Structure
+
+```text
 credit-card-fraud-analytics-dashboard
 │
 ├── README.md
@@ -149,68 +209,100 @@ credit-card-fraud-analytics-dashboard
 │
 ├── 📂 Dataset
 ├── 📂 SQL Queries
+│   ├── Financial Analysis
+│   ├── Fraud Analysis
+│   ├── Customer Analysis
+│   └── Merchant Analysis
+│
 ├── 📂 Dashboard Screenshots
 ├── 📂 Documentation
 └── 📂 Assets
-📦 Project Deliverables
+```
+
+---
+
+# 📦 Project Deliverables
 
 This repository includes:
 
-✅ Interactive Power BI Dashboard (.pbix)
-✅ Dashboard PDF
-✅ SQL Queries
-✅ DAX Measures
-✅ Dashboard Screenshots
-✅ Project Documentation
-✅ Dataset (where redistribution is permitted)
-🚀 Skills Demonstrated
-Data Analytics
-Data Cleaning
-Data Transformation
-Exploratory Data Analysis (EDA)
-Business Intelligence
-Business Storytelling
-SQL
-Data Retrieval
-Aggregation
-Common Table Expressions (CTEs)
-Window Functions
-Business Query Development
-Power BI
-Data Modeling
-Power Query
-DAX
-KPI Development
-Interactive Dashboards
-Bookmarks & Page Navigation
-Dynamic Insights
-Business Analysis
-Fraud Analytics
-Customer Segmentation
-Merchant Performance Analysis
-Financial Performance Analysis
-Data Visualization
-👩‍💻 About Me
+- ✅ Power BI Dashboard (.pbix)
+- ✅ Dashboard PDF
+- ✅ SQL Queries
+- ✅ DAX Measures
+- ✅ Dashboard Screenshots
+- ✅ Project Documentation
+- ✅ Dataset *(where redistribution is permitted)*
 
-Hi, I'm Oluwafeyikemi Oladele, an aspiring Data Analyst passionate about transforming raw data into actionable business insights using SQL, Power BI, Excel, and DAX.
+---
+
+# 🚀 Skills Demonstrated
+
+### Data Analytics
+
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis
+- Business Intelligence
+- Business Storytelling
+
+### SQL
+
+- Data Retrieval
+- Aggregations
+- Common Table Expressions (CTEs)
+- Window Functions
+- Business Query Development
+
+### Power BI
+
+- Data Modeling
+- Power Query
+- DAX
+- KPI Development
+- Interactive Dashboards
+- Bookmarks & Navigation
+- Dynamic Insight Cards
+
+### Business Analysis
+
+- Fraud Analytics
+- Customer Segmentation
+- Merchant Performance Analysis
+- Financial Performance Analysis
+- Data Visualization
+
+---
+
+# 👩‍💻 About Me
+
+Hi, I'm **Oluwafeyikemi Oladele**, an aspiring **Data Analyst** passionate about transforming raw data into actionable business insights using **SQL, Power BI, Excel, and DAX**.
 
 I enjoy solving business problems through analytics, building interactive dashboards, and communicating insights that support data-driven decision-making.
 
-I am currently open to opportunities in:
+I am currently **open to opportunities** in:
 
-Data Analyst
-Business Intelligence Analyst
-Power BI Developer
-📫 Connect with Me
-LinkedIn: (Insert your LinkedIn profile URL)
-GitHub: (Insert your GitHub profile URL)
-Email: (Insert your professional email address)
-🙏 Acknowledgements
+- Data Analyst
+- Business Intelligence Analyst
+- Power BI Developer
 
-This project was developed using a publicly available credit card transaction dataset for educational and portfolio purposes. Appreciation goes to the data community for making real-world datasets available for learning and analytics projects.
+## 📫 Connect With Me
 
-⭐ Support
+- **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN
+- **GitHub:** https://github.com/YOUR-USERNAME
+- **Email:** your.email@example.com
 
-If you found this project useful or insightful, consider giving it a ⭐ Star on GitHub.
+---
 
-Feedback, suggestions, and collaboration opportunities are always welcome.
+# 🙏 Acknowledgements
+
+This project was developed using a publicly available credit card transaction dataset for educational and portfolio purposes.
+
+---
+
+# ⭐ Support
+
+If you found this project helpful or insightful, consider giving this repository a **Star ⭐**.
+
+If you have any feedback, suggestions, or collaboration opportunities, feel free to connect with me on LinkedIn.
+
+Thank you for visiting this repository!
