@@ -128,9 +128,10 @@ The following preprocessing steps were completed before building the dashboard:
 
 # 📊 Dashboard Overview
 
-## 📄 Page 1 — Executive Overview
+## 📄 Page 1 - Executive Overview
 
-![Executive Overview](Dashboard%20Screenshots/01%20Executive%20Overview.png)
+<img width="1064" height="495" alt="Executive Overview" src="https://github.com/user-attachments/assets/73f3086f-db53-4a3a-8d01-3f907ef78137" />
+
 
 **Purpose**
 
