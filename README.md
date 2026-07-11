@@ -32,8 +32,8 @@ The dashboard provides an interactive experience that enables stakeholders to mo
 
 > **Replace the image below with your Executive Overview screenshot**
 
-![Executive Overview](<img width="1064" height="495" alt="Executive Overview" src="https://github.com/user-attachments/assets/54770bf5-843f-4ee7-944a-580f0097efb2" />
-)
+![Executive Overview] [<img width="1064" height="495" alt="Executive Overview" src="https://github.com/user-attachments/assets/b4f60232-52d2-4a36-91f9-3cd06d878340" />]
+
 
 ---
 
