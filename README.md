@@ -287,9 +287,9 @@ I am currently **open to opportunities** in:
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN
+- **LinkedIn:** https://www.linkedin.com/in/oluwafeyikemi-oladele
 - **GitHub:** https://github.com/YOUR-USERNAME
-- **Email:** your.email@example.com
+- **Email:** oluwafeyikemioladele5@gmail.com
 
 ---
 
