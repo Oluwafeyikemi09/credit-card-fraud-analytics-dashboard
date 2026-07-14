@@ -210,10 +210,8 @@ Summarizes the major findings, business insights, and recommendations from the a
 credit-card-fraud-analytics-dashboard
 │
 ├── README.md
-├── Credit Card Fraud Analytics.pbix
 ├── Credit Card Fraud Analytics.pdf
 │
-├── 📂 Dataset
 ├── 📂 SQL Queries
 │   ├── Financial Analysis
 │   ├── Fraud Analysis
@@ -231,13 +229,12 @@ credit-card-fraud-analytics-dashboard
 
 This repository includes:
 
-- ✅ Power BI Dashboard (.pbix)
 - ✅ Dashboard PDF
 - ✅ SQL Queries
 - ✅ DAX Measures
 - ✅ Dashboard Screenshots
 - ✅ Project Documentation
-- ✅ Dataset *(where redistribution is permitted)*
+  
 
 ---
 
