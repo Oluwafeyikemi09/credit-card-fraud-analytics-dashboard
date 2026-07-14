@@ -1,5 +1,13 @@
 # 💳 Credit Card Fraud & Customer Analytics Dashboard
 
+![GitHub last commit](https://img.shields.io/github/last-commit/Oluwafeyikemi09/credit-card-fraud-analytics-dashboard?style=for-the-badge)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Oluwafeyikemi09/credit-card-fraud-analytics-dashboard?style=for-the-badge)
+
+![GitHub stars](https://img.shields.io/github/stars/Oluwafeyikemi09/credit-card-fraud-analytics-dashboard?style=for-the-badge)
+
+![GitHub forks](https://img.shields.io/github/forks/Oluwafeyikemi09/credit-card-fraud-analytics-dashboard?style=for-the-badge)
+
 An interactive **Power BI dashboard** analyzing **925K+ credit card transactions** to uncover fraud patterns, customer spending behavior, and merchant performance using **SQL, DAX, Power Query, and Power BI**.
 
 ---
