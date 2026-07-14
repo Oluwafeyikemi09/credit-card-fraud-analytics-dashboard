@@ -276,6 +276,10 @@ This repository includes:
 
 ---
 
+You can download the dataset here:
+
+🔗 https://www.kaggle.com/datasets/ealtman2019/credit-car
+
 # 👩‍💻 About Me
 
 Hi, I'm **Oluwafeyikemi Oladele**, an aspiring **Data Analyst** passionate about transforming raw data into actionable business insights using **SQL, Power BI, Excel, and DAX**.
