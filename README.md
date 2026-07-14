@@ -276,6 +276,8 @@ This repository includes:
 
 ---
 
+https://drive.google.com/file/d/1oKGWoZNfbu03ZepNJRwsxAw32UdXdYvV/view
+
 You can download the dataset here:
 
 🔗 https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions
