@@ -278,7 +278,7 @@ This repository includes:
 
 You can download the dataset here:
 
-🔗 https://www.kaggle.com/datasets/ealtman2019/credit-car
+🔗 https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions
 
 # 👩‍💻 About Me
 
